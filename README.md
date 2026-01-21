@@ -312,6 +312,4 @@ print(f"Rows loaded: {result['load_result']['rows_loaded']}")
 
 ---
 
-## 📄 License
 
-MIT License - Feel free to use and modify for your own projects.
